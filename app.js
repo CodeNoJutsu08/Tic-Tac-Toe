@@ -11,7 +11,7 @@ let themeBtn = document.querySelector("#theme-btn");
 
 themeBtn.addEventListener("click", () => {
     document.body.classList.toggle("dark-mode");
-});
+}); 
 
 const winPatterns = [
   [0, 1, 2],
