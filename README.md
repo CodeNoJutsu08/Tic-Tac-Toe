@@ -10,7 +10,7 @@ A simple web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Two p
 
 ## Screenshots
 
-![Game Screenshot] (Screenshot%202025-05-11%20062849.png)
+![Game Screenshot] (https://raw.githubusercontent.com/CodeNoJutsu08/Tic-Tac-Toe/main/Screenshot%202025-05-11%20062849.png)
 
 ## Live Demo
 
